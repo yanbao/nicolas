@@ -1,0 +1,6 @@
+server:
+  port: 8081
+user:
+ name: 尼古拉斯兜兜
+ age: 9
+ infos: "name:${user.name},age:${user.age}"

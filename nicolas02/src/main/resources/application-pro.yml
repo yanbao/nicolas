@@ -1,0 +1,9 @@
+server:
+  port: 8082
+name: 大泥藕
+age: 31
+infos: "name:${name},age:${age}"
+user:
+ name: 尼古拉斯兜兜
+ age: 9
+ infos: "name:${name},age:${user.age}"
